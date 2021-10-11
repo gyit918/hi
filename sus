@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n "10: "
+echo -n "1111: "
 read VAR
 
 if [[ $VAR -gt 10 ]]
