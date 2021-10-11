@@ -1,4 +1,2 @@
-echo "sus"
-echo "sus"
-echo "sus"
-echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"echo "sus"
+if (echo "script must be run using sudo bash")
+then echo "sus"
