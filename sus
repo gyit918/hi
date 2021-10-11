@@ -1,2 +1,3 @@
-if (echo "script must be run using sudo bash")
-then echo "sus"
+if echo "run"
+
+then echo "run for your life"
