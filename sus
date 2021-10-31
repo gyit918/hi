@@ -1,9 +1,14 @@
-#!/bin/bash
+#!/bin/sh
 
-echo -n "1111: "
-read VAR
+a=10
+b=20
 
-if [[ $VAR -gt 10 ]]
+if [ $a == $b ]
 then
-  echo "The variable is greater than 10."
+   echo "a is equal to b"
+fi
+
+if [ $a != $b ]
+then
+   echo "a is not equal to b"
 fi
